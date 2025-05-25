@@ -1,4 +1,5 @@
 $("#search-button").on("click", function () {
+  $("#movie-list").html("");
   $.ajax({
     url: "http://omdbapi.com",
     type: "get",
