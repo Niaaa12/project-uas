@@ -1,0 +1,25 @@
+[
+  {
+    "nama": "Kurnia Ningsih",
+    "umur": 21,
+    "NIM": "2217020116",
+    "lulus": false,
+    "hobby": ["coding", "nonton drakor"],
+    "pembimbing": {
+      "pembimbing1": "Andin",
+      "pembimbing2": "Nurul"
+    }
+  },
+
+  {
+    "nama": "Kurnia Ningsih",
+    "umur": 21,
+    "NIM": "2217020116",
+    "lulus": false,
+    "hobby": ["coding", "nonton drakor"],
+    "pembimbing": {
+      "pembimbing1": "Andin",
+      "pembimbing2": "Nurul"
+    }
+  }
+]
